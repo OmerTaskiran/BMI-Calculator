@@ -1,4 +1,4 @@
-# python7
+# BMI Calculator
 
 BMI Calculator
 
